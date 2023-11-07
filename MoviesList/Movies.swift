@@ -10,11 +10,7 @@ import UIKit
 
 
 
-//struct SpokenLanguage: Codable {
-//    let english_name: String
-//    let iso_639_1: String
-//    let name: String
-//}
+
 
 struct Movie: Codable {
     let title: String?
@@ -23,11 +19,7 @@ struct Movie: Codable {
     let poster_path: String?
     let page: String?
     let id : Int?
-//    let spoken_languages: [SpokenLanguage]?
-//    let revenue: Int?
-//    let runtime: Int?
-//    let release_date: Date?
-//    let tagline: String?
+    
 }
 
 

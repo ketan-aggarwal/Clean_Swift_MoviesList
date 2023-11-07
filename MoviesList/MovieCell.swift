@@ -13,10 +13,13 @@ import QuartzCore
 
 class MovieCell: UITableViewCell{
     
+
     
     @IBOutlet weak var rating: UILabel!
     @IBOutlet weak var img: UIImageView!
     
+
+   
 
     @IBOutlet weak var desc: UILabel!
     @IBOutlet weak var title: UILabel!
@@ -46,8 +49,9 @@ class MovieCell: UITableViewCell{
 
                 
                 sepView.layer.insertSublayer(gradientLayer, at: 0)
-//
-        //sepView.clipsToBounds = true
+
+        sepView.clipsToBounds = true
+        sepView.layer.cornerRadius = 10
         
         title.textColor = .white
         title.backgroundColor = .clear

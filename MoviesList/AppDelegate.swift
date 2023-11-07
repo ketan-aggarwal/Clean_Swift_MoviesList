@@ -13,25 +13,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
-        
-        if let font = UIFont(name: "HelveticaNeue-Light", size: 22) {
-            var attributes: [NSAttributedString.Key: Any] = [
-                .font: font,
-                .foregroundColor: UIColor.white,
-                .shadow: NSShadow()
-            ]
-            
-            let shadow = NSShadow()
-            shadow.shadowColor = UIColor.gray
-            shadow.shadowOffset = CGSize(width: 1, height: 1)
-            
-            attributes[.shadow] = shadow
-
-            UINavigationBar.appearance().titleTextAttributes = attributes
-        }
-     
       
+        
+               if let font = UIFont(name: "HelveticaNeue-Light", size: 22) {
+                   var attributes: [NSAttributedString.Key: Any] = [
+                       .font: font,
+                       .foregroundColor: UIColor.white,
+                       .shadow: NSShadow()
+                   ]
+                   
+                   let shadow = NSShadow()
+                   shadow.shadowColor = UIColor.gray
+                   shadow.shadowOffset = CGSize(width: 1, height: 1)
+                   
+                   attributes[.shadow] = shadow
+                   
+                   UINavigationBar.appearance().titleTextAttributes = attributes
+               }
+           
+           
         return true
     }
 
