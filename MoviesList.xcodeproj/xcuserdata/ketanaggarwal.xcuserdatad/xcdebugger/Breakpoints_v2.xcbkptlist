@@ -14,17 +14,17 @@
             filePath = "MoviesList/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "FFE341D0-97B4-497A-960E-4AB954834A84"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MoviesList/ImageConfig.swift"
@@ -39,86 +39,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8A424199-D106-433F-9BAC-BA3AEDD7ABA2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MoviesList/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
-            landmarkName = "fectchConfig()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "BCA16B16-0483-4F88-9E20-C9881633B826"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MoviesList/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
-            landmarkName = "fectchConfig()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EA85CB9A-B632-4989-BF41-30844FEB8A8F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MoviesList/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
-            landmarkName = "fectchConfig()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "EA85CB9A-B632-4989-BF41-30844FEB8A8F - f699ba75a5b584a4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;MoviesList.ImageConfiguration&gt;) -&gt; () in MoviesList.ViewController.fectchConfig() -&gt; ()"
-                  moduleName = "MoviesList"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ketanaggarwal/Desktop/Assignments/MoviesList/MoviesList/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "62"
-                  endingLineNumber = "62"
-                  offsetFromSymbolStart = "363">
-               </Location>
-               <Location
-                  uuid = "EA85CB9A-B632-4989-BF41-30844FEB8A8F - f699ba75a5b584a4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;MoviesList.ImageConfiguration&gt;) -&gt; () in MoviesList.ViewController.fectchConfig() -&gt; ()"
-                  moduleName = "MoviesList"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ketanaggarwal/Desktop/Assignments/MoviesList/MoviesList/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "62"
-                  endingLineNumber = "62"
-                  offsetFromSymbolStart = "699">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -126,13 +46,13 @@
             filePath = "MoviesList/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "126"
-            endingLineNumber = "126"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
-                  uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D - adae60ce56643ff2"
+                  uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D - adae60ce566429a0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -142,12 +62,12 @@
                   urlString = "file:///Users/ketanaggarwal/Desktop/Assignments/MoviesList/MoviesList/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "87"
-                  endingLineNumber = "87"
-                  offsetFromSymbolStart = "1593">
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1942">
                </Location>
                <Location
-                  uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D - adae60ce56643ff2"
+                  uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D - adae60ce566429a0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -157,12 +77,12 @@
                   urlString = "file:///Users/ketanaggarwal/Desktop/Assignments/MoviesList/MoviesList/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "87"
-                  endingLineNumber = "87"
-                  offsetFromSymbolStart = "1637">
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1992">
                </Location>
                <Location
-                  uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D - adae60ce56643ff2"
+                  uuid = "6272D04D-8B6D-44BA-B81D-C53253A5C51D - adae60ce566429a0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -172,9 +92,9 @@
                   urlString = "file:///Users/ketanaggarwal/Desktop/Assignments/MoviesList/MoviesList/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "87"
-                  endingLineNumber = "87"
-                  offsetFromSymbolStart = "1715">
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "2070">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -189,10 +109,10 @@
             filePath = "MoviesList/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "137"
-            endingLineNumber = "137"
-            landmarkName = "tableView(_:didSelectRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

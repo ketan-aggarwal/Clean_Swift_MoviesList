@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
       
-        
+        let viewController = MovieViewController()
                if let font = UIFont(name: "HelveticaNeue-Light", size: 22) {
                    var attributes: [NSAttributedString.Key: Any] = [
                        .font: font,
